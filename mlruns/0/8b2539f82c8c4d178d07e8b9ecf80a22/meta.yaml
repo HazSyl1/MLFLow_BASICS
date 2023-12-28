@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hazsy/Desktop/Haz%28Padhai%20Likhai%29/Cancer_MLFlow/file/mlruns/0/8b2539f82c8c4d178d07e8b9ecf80a22/artifacts
+end_time: 1703749263619
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b2539f82c8c4d178d07e8b9ecf80a22
+run_name: peaceful-loon-20
+run_uuid: 8b2539f82c8c4d178d07e8b9ecf80a22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703749254239
+status: 3
+tags: []
+user_id: hazsy

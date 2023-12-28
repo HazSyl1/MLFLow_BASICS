@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hazsy/Desktop/Haz%28Padhai%20Likhai%29/Cancer_MLFlow/file/mlruns/0/d445c6752d5b4df39c02c7534152f62e/artifacts
+end_time: 1703748072129
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d445c6752d5b4df39c02c7534152f62e
+run_name: amusing-gnat-950
+run_uuid: d445c6752d5b4df39c02c7534152f62e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703748064058
+status: 3
+tags: []
+user_id: hazsy

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hazsy/Desktop/Haz%28Padhai%20Likhai%29/Cancer_MLFlow/file/mlruns/0/40f15ce6a13f4310a9551263cdbedf3a/artifacts
+end_time: 1703746606545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40f15ce6a13f4310a9551263cdbedf3a
+run_name: gaudy-cod-40
+run_uuid: 40f15ce6a13f4310a9551263cdbedf3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703746593734
+status: 3
+tags: []
+user_id: hazsy
